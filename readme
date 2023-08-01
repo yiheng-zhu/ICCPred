@@ -1,0 +1,7 @@
+This script is for generate MSA
+
+
+python cpxMSA.py -t=A-B -iDir=inputdir
+
+if target A-B path is /home/example/A-B
+    inputdir is /home/example/
