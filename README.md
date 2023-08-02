@@ -7,6 +7,7 @@ pip install ESM
 
 #### Extract Multiple Sequence Alignments
 cd MSA/
+# download hhsuite2.0 to MSA folder
 # download library to MSA folder 
 # https://zhanggroup.org/cpxDeepMSA/download/package.tar.bz2
 # tar -xvf package.tar.bz2 
