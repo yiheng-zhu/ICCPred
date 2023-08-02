@@ -18,3 +18,8 @@ python cpxMSA.py -t=targetID -iDir=/home/example
 # targetID: target name ie. -t=16gsA-16gsB
 # The directory that contains the target directory data. For complexes like 16gsA-16gsB if the directory 16gsA-16gsB full path is /home/user/targets/117eA-117eB the targetpath should store /home/user/targets/ i.e. -iDir=/home/user/targets/
 # Extract Feature embedding
+Python Extract_MSA_Feature_Embedding.py
+# Training ICCPred model 
+Python train_single_model.py
+# Testing ICCPred model
+Python test_model.py
